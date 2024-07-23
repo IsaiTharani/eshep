@@ -1,2 +1,0 @@
-#eshep
-Ecommerce application
